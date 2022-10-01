@@ -1,5 +1,5 @@
 # Praktik_Asesmen_Jwd
- Buatlah sebuah fungsi dengan nama hitung_tagihan_awal untuk menghitung tagihan awal.
+1.  Buatlah sebuah fungsi dengan nama hitung_tagihan_awal untuk menghitung tagihan awal.
     a. Parameter fungsi tersebut adalah harga dan jumlah.
     b. Nilai tagihan awal didapatkan dari harga dikalikan dengan jumlah. tagihan awal = harga X jumlah
     c. Fungsi tersebut mengembalikan nilai tagihan awal.
